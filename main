@@ -138,7 +138,7 @@
   \resumeSubHeadingListStart
 
   \resumeSubheading
-    {Undergraduate Learning Assistant for Python Programming 1}{Jan. 2025 -- Present}
+    {Teaching Assistant for Python Programming 1}{Jan. 2025 -- Present}
     {Michigan State University}{East Lansing, MI}
   \resumeItemListStart
     \resumeItem{Teach two 2-hour lab sessions weekly, each with 50 students, covering project work and class content}
@@ -149,7 +149,7 @@
       {Software Developer Contractor}{Dec. 2024 -- Jan. 2025}
       {Kennel Geek}{Seymour, IN}
       \resumeItemListStart
-        \resumeItem{Completed 4 critical project milestones within 3 weeks, resolving over 20 complex dependency issues in React}
+        \resumeItem{Resolved 20+ React and back-end dependency issues, completing 4 project milestones in 3 weeks}
         \resumeItem{Updated and restored the full stack of code by fixing code deprecations due to upgrading the database version.}
       \resumeItemListEnd
 
